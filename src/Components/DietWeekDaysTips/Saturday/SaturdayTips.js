@@ -49,7 +49,7 @@ const SaturdayComponent = () => {
                                 >
                                     <MenuIcon />
                                 </IconButton>
-                                <Typography variant="h6" component="div" sx={{ flexGrow: 1 }} id="saturday" style={{ fontFamily: "Verdana" }}>
+                                <Typography variant="h6" component="div" sx={{ flexGrow: 1 }} id="saturday">
                                     Saturday Tips
                                 </Typography>
                                 <Button color="inherit" id="saturdayButton" onClick={() => handleBack()}><ArrowBackIcon />Back</Button>
