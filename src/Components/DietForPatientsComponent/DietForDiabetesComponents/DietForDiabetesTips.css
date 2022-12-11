@@ -1,0 +1,41 @@
+/* Diabetes Tips Div */
+
+#diabetesTipsDiv{
+    background-image: url("../images/diabetesTips.jpg");
+    width: 100%;  
+    height: 20cm;    
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+/* Diabetes Tips */
+
+#diabetesTipsTypo{
+    font-family: "Ink Free";
+    font-size: 30px;
+}
+
+/* Grid */
+
+#GridDiabetesTips{
+    width: 100%;
+    margin-left: 380px;
+    margin-top: 15px;
+    position: fixed;
+}
+
+/* Card Diabetes Tips */
+
+#cardDiabetesTips{
+    width: 50%;
+    margin-top: 45px;
+    padding: 20px;
+}
+
+/* Unordered List */
+
+#UlDiabetesTips{
+    list-style-type: inherit;
+    display: inline-block;
+    text-align: center;
+}

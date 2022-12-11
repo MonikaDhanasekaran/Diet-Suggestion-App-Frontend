@@ -1,0 +1,51 @@
+/* Weight Loss Tips Div */
+
+#weightLossTipsDiv{
+    background-image: url("../images/weightlosstips.webp");
+    width: 100%;  
+    height: 20cm;    
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+/* WeightLossTips */
+
+#weightlosstipsTypo{
+    font-family: "Papyrus";
+    font-size: 35px;
+}
+
+/* Weight Loss Tips Button */
+
+#weightlossTipsButton{
+    font-family: "Lucida Handwriting";
+    font-size: 16px;
+}
+
+/* Table */
+
+#align-table{
+    width: 90%;
+    margin-left: 70px;
+    margin-top: 50px;
+}
+
+/* Table Head */
+
+#headStyle{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Table Row */
+
+#tableRow{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(147, 221, 228);
+}
+
+/* Table Body */
+
+#tableBody{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: pink;
+}

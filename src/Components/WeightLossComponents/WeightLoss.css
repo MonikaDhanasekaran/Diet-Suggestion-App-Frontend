@@ -1,0 +1,41 @@
+/* Weight Loss Div */
+
+#weightLossDiv{
+    background-image: url("../images/weightloss.webp");
+    width: 100%;  
+    height: 20cm;    
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+/* Navbar */
+
+#light-weightloss{
+    line-height: 0px;
+    padding: 10px;
+    letter-spacing: 2px;
+    line-height: 1;
+}
+
+/* Weight Loss */
+
+#weightLossTypo{
+    font-family: "Papyrus";
+    font-size: 35px;
+}
+
+/* Button */
+
+#weightlossButton{
+    font-family: "Lucida Handriting";
+    font-size: 18px;
+}
+
+/* Grid */
+
+#GridWeightLoss{
+    width: 100%;
+    margin: 6%;
+    position: fixed;
+    margin-left: 440px;
+}

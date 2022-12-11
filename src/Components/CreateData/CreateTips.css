@@ -1,0 +1,59 @@
+/* Create */
+
+/* Create Div */
+
+#CreatePage{
+    background-image: url("../images/adddata.webp");
+    width: 100%;  
+    height: 20cm;    
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+/* TextField */
+
+#createMealTextField{
+    width: 75%;
+}
+
+#createTimingTextField{
+    width: 75%;
+}
+
+/* Card Create */
+
+#cardCreate{
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 10%;
+    border-radius: 30px;
+}
+
+/* Typography Create */
+
+#cardTypo{
+    font-family: "Gabriola";
+    padding: 10px;
+    font-size: 40px;
+}
+
+/* Create Button */
+
+#createButton{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 30%;
+}
+
+/* Create Appbar Typography */
+
+#createTipsTypo{
+    font-family: "Papyrus";
+    font-size: 30px;
+}
+
+/* Create Appbar Button */
+
+#createTipsButton{
+    font-family: "Lucida Handwriting";
+    font-size: 16px;
+}

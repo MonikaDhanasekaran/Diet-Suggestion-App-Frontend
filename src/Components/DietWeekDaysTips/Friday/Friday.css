@@ -1,0 +1,46 @@
+/* Div */
+
+.fridayDiv{
+    background-image: url("../images/friday.jpg");
+    height: 20cm;
+    background-repeat: no-repeat;
+    width: 100%;
+    position: fixed;
+}
+
+/* Friday Button */
+
+#friday{
+    font-family: "Perpetua";
+    font-size: 30px;
+}
+
+#fridayButton{
+    font-family: "Lucida Handwriting";
+    font-size: 16px;
+}
+
+/* Card Thursday */
+
+#cardFriday{
+    width: 100%;
+    margin-left: 39px;
+    margin-bottom: 2px;
+    border-radius: 20px;
+}
+
+/* Card Media */
+
+#cardMedia{
+    margin: 5%;
+}
+
+/* Typography */
+
+#meal{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#timing{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

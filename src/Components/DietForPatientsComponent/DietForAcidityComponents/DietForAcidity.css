@@ -1,0 +1,32 @@
+/* Diet For Acidity Div */
+
+#dietforacidityDiv{
+    background-image: url("../images/acidity.jpg");
+    width: 100%;  
+    height: 20cm;    
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+/* Diet For Acidity */
+
+#acidityTypo{
+    font-family: "Papyrus";
+    font-size: 30px;
+}
+
+/* Button */
+
+#acidityButton{
+    font-family: "Lucida Handwriting";
+    font-size: 15px;
+}
+
+/* Grid */
+
+#GridAcidity{
+    width: 100%;
+    margin: 5%;
+    position: fixed;
+    margin-left: 440px;
+}

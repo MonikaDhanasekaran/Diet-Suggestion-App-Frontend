@@ -1,0 +1,58 @@
+/* Update */
+
+/* Update Div */
+
+#UpdatePage{
+    background-image: url("../images/UpdateData.webp");
+    width: 100%;  
+    height: 20cm;    
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+/* Card Update */
+
+#cardUpdate{
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 10%;
+    border-radius: 30px;
+}
+
+/* TextField */
+
+#updateMealTextField{
+    width: 75%;
+}
+
+#updateTimingTextField{
+    width: 75%;
+}
+
+/* Typography Update */
+
+#updateTypo{
+    font-family: "Gabriola";
+    font-size: 50px;
+}
+
+/* Update Button */
+
+#updateButton{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 30%;
+}
+
+/* Update Appbar Typography */
+
+#updateTipsTypo{
+    font-family: "Papyrus";
+    font-size: 30px;
+}
+
+/* Update Appbar Button */
+
+#updateTipsButton{
+    font-family: "Lucida Handwriting";
+    font-size: 16px;
+}

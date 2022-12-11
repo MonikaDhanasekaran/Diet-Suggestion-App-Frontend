@@ -1,0 +1,46 @@
+/* Div */
+
+.wednesdayDiv{
+    background-image: url("../images/wednesday.jpg");
+    height: 20cm;
+    background-repeat: no-repeat;
+    width: 100%;
+    position: fixed;
+}
+
+/* Wednesday Button */
+
+#wednesday{
+    font-family: "Perpetua";
+    font-size: 30px;
+}
+
+#wednesdayButton{
+    font-family: "Lucida Handwriting";
+    font-size: 16px;
+}
+
+/* Card */
+
+#cardWednesday{
+    width: 100%;
+    margin-left: 45px;
+    margin-bottom: 2px;
+    border-radius: 20px;
+}
+
+/* Card Media */
+
+#cardMedia{
+    margin: 5%;
+}
+
+/* Typography */
+
+#meal{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#timing{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

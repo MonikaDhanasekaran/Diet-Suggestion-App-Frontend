@@ -1,0 +1,47 @@
+/* Acidity Tips Div */
+
+#acidityTipsDiv{
+    background-image: url("../images/acidityTips.jpg");
+    width: 100%;  
+    height: 20cm;    
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+/* Acidity Tips */
+
+#acidityTipsTypo{
+    font-family: "Ink Free";
+    font-size: 30px;
+}
+
+/* Button */
+
+#buttonAlign{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Grid */
+
+#GridAcidityTips{
+    width: 100%;
+    margin-left: 380px;
+    margin-top: 15px;
+    position: fixed;
+}
+
+/* Card Acidity Tips */
+
+#cardAcidityTips{
+    width: 50%;
+    padding: 20px;
+}
+
+
+/* Unordered List */
+
+#UlAcidityTips{
+    list-style-type: kannada;
+    display: inline-block;
+    text-align: center;
+}

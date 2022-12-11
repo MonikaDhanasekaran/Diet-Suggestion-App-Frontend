@@ -1,0 +1,47 @@
+/* Uric Acid Tips Div */
+
+#uricAcidTipsDiv{
+    background-image: url("../images/uricacidTips.jpg");
+    width: 100%;  
+    height: 20cm;    
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+/* Uric Acid */
+
+#uricacidTipsTypo{
+    font-family: "Ink Free";
+    font-size: 30px;
+}
+
+/* Button */
+
+#buttonAlign{
+    font-family: "Lucida Handwriting";
+    font-size: 15px;
+}
+
+/* Grid */
+
+#GridUricAcidTips{
+    width: 100%;
+    margin-left: 440px;
+    margin-top: 110px;
+    position: fixed;
+}
+
+/* Card Uric Acid Tips */
+
+#cardUricAcidTips{
+    width: 40%;
+    padding: 20px;
+}
+
+/* UnOrdered List */
+
+#UlUricAcidTips{
+    list-style-type: georgian;
+    display: inline-block;
+    text-align: center;
+}
