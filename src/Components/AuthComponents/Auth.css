@@ -47,9 +47,10 @@
 /* Card Register */
 
 #cardRegister{
-    width: 40%;
-    margin-left: 30%;
-    margin-top: 10px;
+    width: 1200px;
+    margin-left: 10%;
+    margin-top: 40px;
+    margin-bottom: 5px;
     border-radius: 40px;
 }
 
@@ -64,6 +65,7 @@
 
 #registerButton{
     width: 30%;
+    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -133,4 +135,14 @@
 #changePasswordButton{
     width: 50%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1px;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+}
+.card-registration .select-arrow {
+    top: 13px;
 }
