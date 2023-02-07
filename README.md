@@ -1,1 +1,3 @@
-This project is to get a suggestions to maintain a perfect Diet
+DIET SUGGESTION
+
+This project is done by using the tech stack React JS.
